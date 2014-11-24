@@ -214,4 +214,4 @@ var y = Player.getY();
 var z = Player.getZ();
 clientMessage("§3More Enderman Mod §6v1.5");
 clientMessage("§8Craft The Start Kit To Start(§2Three Oak Planks §3And Two Iron §6Ingots");
-clientMessage("§3Mod §4Made §5By §1Dantujont");}
+clientMessage("§3Mod §4Made §5By §1Dantujont and edisonlee55");}
